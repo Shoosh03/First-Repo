@@ -1,0 +1,27 @@
+h1 {
+  color: red;
+}
+
+p {
+  font-size: 20px;
+}
+
+#intro {
+  color: green;
+}
+
+.intro {
+  color: blue;
+}
+
+.myBox1 {
+  padding: 10px;
+  border: 5px solid blue;
+  margin: 15px;
+  background-color: lightgray;
+}
+
+h4 {
+  color: purple;
+  font-size: 30px;
+}
